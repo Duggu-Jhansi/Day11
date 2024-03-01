@@ -1,6 +1,7 @@
 <template>
     <div class="bg">
   <h1>Quotes</h1>
+  <ContentDoc/>
  </div>
   </template>
   <script setup>

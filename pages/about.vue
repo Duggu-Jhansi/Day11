@@ -1,7 +1,7 @@
 <template>
   <div class="bground background-gray-100">
 <h1>Quotes</h1>
-
+<loader class="bg-green-500"/>
 <p>Quotes have the power to encourage, inspire, and motivate people at times of unhappiness and lacking motivation. At such times, reading a few quotes can uplift one's mood and improve the state of mind.</p>
   </div>
 </template>
